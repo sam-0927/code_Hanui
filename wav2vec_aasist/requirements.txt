@@ -1,0 +1,5 @@
+torch>=1.6.0
+torchcontrib
+numpy
+soundfile
+protobuf==3.19.6
